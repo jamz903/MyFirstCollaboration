@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Fixed issue #4
+=======
+Hi test test fixed ur issue
+WOIIII
+>>>>>>> f5e3e305ac07d1045577ce6e62dc790d3e398879
